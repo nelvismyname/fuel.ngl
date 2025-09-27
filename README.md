@@ -1,5 +1,5 @@
-# MAINTENANCE 🚧
-I have lost interest in this project for a very long time, and some people have decided to delete the webhook for no absolute reason at all. Because of that, I will be updating the app and turn it into a **WEBSITE**. Any devices can run fuel.ngl anytime and anywhere. There will also be a 24/7 option to keep sending the request without any devices. **fuel.ngl#1**
+# Archived 🚧
+fuel.ngl has just ended its service. **``fuel.ngl#1``**
 
 # fuel.ngl
 The most **optimized, efficient** spammer for ngl.link
